@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Filter-Items/static/css/main.ffc4fd77.chunk.css",
+    "main.js": "/React-Filter-Items/static/js/main.31e43c94.chunk.js",
+    "main.js.map": "/React-Filter-Items/static/js/main.31e43c94.chunk.js.map",
+    "runtime-main.js": "/React-Filter-Items/static/js/runtime-main.794728ce.js",
+    "runtime-main.js.map": "/React-Filter-Items/static/js/runtime-main.794728ce.js.map",
+    "static/js/2.eec53365.chunk.js": "/React-Filter-Items/static/js/2.eec53365.chunk.js",
+    "static/js/2.eec53365.chunk.js.map": "/React-Filter-Items/static/js/2.eec53365.chunk.js.map",
+    "static/js/3.eb21fc03.chunk.js": "/React-Filter-Items/static/js/3.eb21fc03.chunk.js",
+    "static/js/3.eb21fc03.chunk.js.map": "/React-Filter-Items/static/js/3.eb21fc03.chunk.js.map",
+    "index.html": "/React-Filter-Items/index.html",
+    "static/css/main.ffc4fd77.chunk.css.map": "/React-Filter-Items/static/css/main.ffc4fd77.chunk.css.map",
+    "static/js/2.eec53365.chunk.js.LICENSE.txt": "/React-Filter-Items/static/js/2.eec53365.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.794728ce.js",
+    "static/js/2.eec53365.chunk.js",
+    "static/css/main.ffc4fd77.chunk.css",
+    "static/js/main.31e43c94.chunk.js"
+  ]
+}
